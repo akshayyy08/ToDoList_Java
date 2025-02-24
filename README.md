@@ -90,6 +90,6 @@ Contributions are welcome! If you’d like to enhance this project:
 This project is open-source and available under the **MIT License**.
 
 ---
-**Author**: Your Name  
+**Author**: Bathala Akshay
 **GitHub**: https://github.com/akshayyy08/ToDoList_Java
 
